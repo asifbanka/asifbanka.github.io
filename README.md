@@ -1,1 +1,1 @@
-# CS-512-Operating-Systems
+Linux Internals CSE254C
