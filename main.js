@@ -4,152 +4,131 @@ let table_data = [
     
 {
     lecture:"1",
-    title:"Overview of Operating Systems",
-    reading : "OSC Ch1 and Ch2",
-    sup_material : "The UNIX Time- Sharing System by Ritchie and Ken Thompson",
-    remarks_events : "Lecture Delivered"
+    title:"Overview",
+    reading : "LA Ch1 ",
+    //sup_material : "The UNIX Time- Sharing System by Ritchie and Ken Thompson",
+    remarks_events : "Online Meeting 01"
 },
 
 {
     lecture:"2",
-    title:"Operating Systems : Structure and  History",
-    reading : "OSC Ch1 and Ch2",
-    sup_material : "On Building Systems That Will Fail by  FJ Corbató",
-    remarks_events : "Lecture Delivered"
+    title:"Unix System Structure",
+    reading : "LA Ch1 and Ch2",
+   // sup_material : "On Building Systems That Will Fail by  FJ Corbató",
+    remarks_events : "Online Meeting 02"
 },
 
 {
     lecture:"3",
-    title:"Threads and Concurrency",
-    reading : "OSC Ch4",
-    sup_material : "",
-    remarks_events : "Lecture Delivered"
+    title:"Linux Distributions and Standards",
+    reading : "LA Ch4",
+   // sup_material : "",
+    remarks_events : "Online Meeting 03"
 },
 {
     lecture:"4",
-    title:"Thread Protection and Cooperating Threads",
-    reading : "OSC Ch3",
-    sup_material : "The structure of the “THE”-multiprogramming system by Dijkstra",
-    remarks_events : "Lecture Delivered"
+    title:"Installation and Documentation",
+    reading : "LA Ch3",
+    //sup_material : "The structure of the “THE”-multiprogramming system by Dijkstra",
+    remarks_events : "Online Meeting 04"
 },
 {
     lecture:"5",
-    title:"Processes and Life Cycle of a Process",
-    reading : "OSC Ch3",
-    sup_material : "",
-    remarks_events : "Lecture Delivered"
+    title:"File System and Hierarchy",
+    reading : "LA Ch3",
+    //sup_material : "",
+    remarks_events : "Online Meeting 05"
 },
 {
     lecture:"6",
-    title:"Synchronization",
-    reading : "OSC Ch5",
-    sup_material : "Medical Devices: The Therac-25 by Nancy Leveson",
-    remarks_events : "Lecture Delivered"
+    title:"Filters",
+    reading : "LA Ch5",
+    //sup_material : "Medical Devices: The Therac-25 by Nancy Leveson",
+    remarks_events : "Online Meeting 06"
 },
 {
     lecture:"7",
-    title:"Mutual Exlusion, Critical Section and Locks",
-    reading : "OSC Ch5",
-    sup_material : "",
-    remarks_events : "Lecture Delivered"
+    title:"Devices",
+    reading : "LA Ch5",
+   // sup_material : "",
+    remarks_events : "Online Meeting 07"
 },
 {
     lecture:"8",
-    title:"Semaphores and Monitors",
-    reading : "OSC Ch5",
-    sup_material : "An Introduction to Programming with Threads by Andrew D. Birrell",
-    remarks_events : "Lecture Pending"
+    title:"Processes and Users",
+    reading : "LA Ch5",
+    //sup_material : "An Introduction to Programming with Threads by Andrew D. Birrell",
+    remarks_events : "Online Meeting 08"
 },
 {
     lecture:"9",
-    title:"Resource Contention and Deadlocks",
-    reading : "OSC Ch7",
-    sup_material : "",
-    remarks_events : "Lecture Delivered"
+    title:"Networking DNS",
+    reading : "LA Ch7",
+    //sup_material : "",
+    remarks_events : "Online Meeting 09"
 },
 {
     lecture:"10",
-    title:"Deadlocks : Handling and Avoidance",
-    reading : "OSC Ch7",
-    sup_material : "Deadlock avoidance with a modified banker's algorithm by Ferenc Belik",
-    remarks_events : "Lecture Delivered"
+    title:"SMTP, IMAP/POP",
+    reading : "LA Ch7",
+    //sup_material : "Deadlock avoidance with a modified banker's algorithm by Ferenc Belik",
+    remarks_events : "Online Meeting 10"
 },
 {
     lecture:"11",
-    title:"Scheduling FCFS, RR, Priority",
-    reading : "OSC Ch6",
-    sup_material : "",
-    remarks_events : "Lecture Delivered"
+    title:"NFS and Distributed File System",
+    reading : "LA Ch6",
+    //sup_material : "",
+    remarks_events : "Online Meeting 11"
 },
 {
     lecture:"12",
-    title:"Scheduling  SJF, STRF, Lottery",
-    reading : "OSC Ch6",
-    sup_material : "",
-    remarks_events : "Lecture Delivered"
+    title:"Security and SSH",
+    reading : "LA Ch6",
+    //sup_material : "",
+    remarks_events : "Online Meeting 12"
 },
 {
     lecture:"13",
-    title:"Memory Virtualization and Address Translation",
-    reading : "OSC Ch8",
-    sup_material : "Xen and The Art of Virtualization by Paul Barham",
-    remarks_events : "Lecture Delivered"
+    title:"Print Server and CUPS",
+    reading : "LA Ch8",
+    //sup_material : "Xen and The Art of Virtualization by Paul Barham",
+    remarks_events : "Online Meeting 13"
 },
 {
     lecture:"14",
-    title:"Segmentation and Paging",
-    reading : "OSC Ch8 and Ch9",
-    sup_material : "",
-    remarks_events : "Online Meeting 1"
+    title:"Virtualization",
+    reading : "LA Ch8 and Ch9",
+    //sup_material : "",
+    remarks_events : "Online Meeting 14"
 },
 {
     lecture:"15",
-    title:"Caching and Demand Paging",
-    reading : "OSC Ch9",
-    sup_material : "Virtual Memory Management in the VAX/VMS Operating Systems by Lipman,",
-    remarks_events : "Online Meeting 2"
+    title:"Backups",
+    reading : "LA Ch9",
+    //sup_material : "Virtual Memory Management in the VAX/VMS Operating Systems by Lipman,",
+    remarks_events : "Online Meeting 15"
 },
 {
     lecture:"16",
-    title:"Page Replacement Algorithms",
-    reading : "OSC Ch9",
-    sup_material : "",
-    remarks_events : "Online Meeting 3"
+    title:"Shell Programming",
+    reading : "LA Ch9",
+    //sup_material : "Virtual Memory Management in the VAX/VMS Operating Systems by Lipman,",
+    remarks_events : "Online Meeting 16"
 },
 {
     lecture:"17",
-    title:"I/O and Disks",
-    reading : "OSC Ch10",
-    sup_material : "",
-    remarks_events : "Online Meeting 4"
+    title:"Additional Lecture I",
+    reading : "LA Ch9",
+    //sup_material : "Virtual Memory Management in the VAX/VMS Operating Systems by Lipman,",
+    remarks_events : "Online Meeting 17"
 },
 {
     lecture:"18",
-    title:"File Systems",
-    reading : "OSC Ch11 and Ch12",
-    sup_material : "A Fast File System for UNIX by M. McKusick",
-    remarks_events : "Online Meeting 5"
-},
-{
-    lecture:"19",
-    title:"Buffer Lecture",
-    reading : "Online",
-    sup_material : "",
-    remarks_events : "Online Meeting 6"
-},
-{
-    lecture:"20",
-    title:"Optional Lecture : Distributed File Systems",
-    reading : "OSC Ch17",
-    sup_material : "",
-    remarks_events : "To Be Decided"
-},
-{
-    lecture:"21",
-    title:"Optional Lecture : Cloud Computing / IoT",
-    reading : "Online",
-    sup_material : "",
-    remarks_events : "To Be Decided"
+    title:"Additional Lecture II",
+    reading : "LA Ch9",
+    //sup_material : "Virtual Memory Management in the VAX/VMS Operating Systems by Lipman,",
+    remarks_events : "Online Meeting 18"
 }
 ]
 
@@ -172,15 +151,12 @@ function renderTableData(){
         <td>
          ${table_row.reading}
         </td>
-
-        <td>
-       <a href="">  ${table_row.sup_material} </a>
-        </td>
-
         <td>
         ${table_row.remarks_events}
         </td>
       </tr>
+
+        
 
         `
     })
