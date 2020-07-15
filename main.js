@@ -15,7 +15,7 @@ let table_data = [
     title:"Unix System Structure",
     reading : "The UNIX Time- Sharing System by Ritchie and Ken Thompson",
    // sup_material : "On Building Systems That Will Fail by  FJ Corbató",
-    remarks_events : "Delivered July 15, 2020"
+    remarks_events : "Delivered July 11, 2020"
 },
 
 {
@@ -23,14 +23,14 @@ let table_data = [
     title:"Linux Distributions and Standards",
     reading : "LA Ch 1",
    // sup_material : "",
-    remarks_events : "Online Meeting 03"
+    remarks_events : "Delivered July 15, 2020"
 },
 {
     lecture:"4",
     title:"Installation and Documentation",
     reading : "LA Ch 2 & 3",
     //sup_material : "The structure of the “THE”-multiprogramming system by Dijkstra",
-    remarks_events : "Online Meeting 04"
+    remarks_events : "Delivered July 15, 2020"
 },
 {
     lecture:"5",
