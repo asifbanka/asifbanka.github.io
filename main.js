@@ -7,7 +7,7 @@ let table_data = [
     title:"Overview",
     reading : "LA Ch 1 ",
     //sup_material : "The UNIX Time- Sharing System by Ritchie and Ken Thompson",
-    remarks_events : "Online Meeting 01"
+    remarks_events : "Delivered July 11, 2020"
 },
 
 {
@@ -15,7 +15,7 @@ let table_data = [
     title:"Unix System Structure",
     reading : "The UNIX Time- Sharing System by Ritchie and Ken Thompson",
    // sup_material : "On Building Systems That Will Fail by  FJ Corbató",
-    remarks_events : "Online Meeting 02"
+    remarks_events : "Delivered July 15, 2020"
 },
 
 {
