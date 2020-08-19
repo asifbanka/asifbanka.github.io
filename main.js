@@ -37,21 +37,21 @@ let table_data = [
     title:"File System and Hierarchy",
     reading : "LA Ch 5 & 7",
     //sup_material : "",
-    remarks_events : "Online Meeting 05"
+    remarks_events : "Delivered July 22, 2020"
 },
 {
     lecture:"6",
     title:"Filters",
     reading : "UPE Ch 4",
     //sup_material : "Medical Devices: The Therac-25 by Nancy Leveson",
-    remarks_events : "Online Meeting 06"
+    remarks_events : "Delivered August 12, 2020"
 },
 {
     lecture:"7",
     title:"Devices",
     reading : "LA Ch 5",
    // sup_material : "",
-    remarks_events : "Online Meeting 07"
+    remarks_events : "Delivered July 25, 2020"
 },
 {
     lecture:"8",
