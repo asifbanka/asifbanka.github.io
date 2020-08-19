@@ -55,8 +55,8 @@ let table_data = [
 },
 {
     lecture:"8",
-    title:"Processes and Users",
-    reading : "LA Ch 4",
+    title:"FTP",
+    reading : "LA Ch 17",
     //sup_material : "An Introduction to Programming with Threads by Andrew D. Birrell",
     remarks_events : "Online Meeting 08"
 },
