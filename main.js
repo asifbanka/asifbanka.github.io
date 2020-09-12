@@ -58,7 +58,7 @@ let table_data = [
     title:"FTP",
     reading : "LA Ch 17",
     //sup_material : "An Introduction to Programming with Threads by Andrew D. Birrell",
-    remarks_events : "Online Meeting 08"
+    remarks_events : "Delivered August 12, 2020"
 },
 {
     lecture:"9",
@@ -69,62 +69,76 @@ let table_data = [
 },
 {
     lecture:"10",
-    title:"SMTP, IMAP/POP",
+    title:"SMTP",
     reading : "LA Ch 19 & 20",
     //sup_material : "Deadlock avoidance with a modified banker's algorithm by Ferenc Belik",
-    remarks_events : "Online Meeting 10"
+    remarks_events : "Delivered August 19, 2020"
+},
+    {
+    lecture:"11",
+    title:"Email, IMAP/POP",
+    reading : "LA Ch 19 & 20",
+    //sup_material : "Deadlock avoidance with a modified banker's algorithm by Ferenc Belik",
+    remarks_events : "Delivered September 05, 2020"
+},
+    {
+    lecture:"12",
+    title:"Web Server",
+    reading : "LA Ch 18",
+    //sup_material : "Deadlock avoidance with a modified banker's algorithm by Ferenc Belik",
+    remarks_events : "Delivered September 11, 2020"
 },
 {
-    lecture:"11",
+    lecture:"13",
     title:"NFS and Distributed File System",
     reading : "LA Ch 22",
     //sup_material : "",
     remarks_events : "Online Meeting 11"
 },
 {
-    lecture:"12",
+    lecture:"14",
     title:"Security and SSH",
     reading : "LA Ch 21",
     //sup_material : "",
     remarks_events : "Online Meeting 12"
 },
 {
-    lecture:"13",
+    lecture:"15",
     title:"Print Server and CUPS",
     reading : "LA Ch 27",
     //sup_material : "Xen and The Art of Virtualization by Paul Barham",
     remarks_events : "Online Meeting 13"
 },
 {
-    lecture:"14",
+    lecture:"16",
     title:"Virtualization",
     reading : "LA Ch 29",
     //sup_material : "",
     remarks_events : "Online Meeting 14"
 },
 {
-    lecture:"15",
+    lecture:"17",
     title:"Backups",
     reading : "LA Ch 30",
     //sup_material : "Virtual Memory Management in the VAX/VMS Operating Systems by Lipman,",
     remarks_events : "Online Meeting 15"
 },
 {
-    lecture:"16",
+    lecture:"18",
     title:"Shell Programming",
     reading : "UPE Ch 5",
     //sup_material : "Virtual Memory Management in the VAX/VMS Operating Systems by Lipman,",
     remarks_events : "Online Meeting 16"
 },
 {
-    lecture:"17",
+    lecture:"19",
     title:"Additional Lecture I",
     reading : "",
     //sup_material : "Virtual Memory Management in the VAX/VMS Operating Systems by Lipman,",
     remarks_events : "Online Meeting 17"
 },
 {
-    lecture:"18",
+    lecture:"20",
     title:"Additional Lecture II",
     reading : "",
     //sup_material : "Virtual Memory Management in the VAX/VMS Operating Systems by Lipman,",
